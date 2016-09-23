@@ -15,7 +15,7 @@
 }
 
 .bannerfade .flex-direction-nav .flex-prev{
-	background-image: url(/DigitvisionSkins/PhanPhucThanh/images/arrow_white_left.png);
+	background-image: url(/Content/DigitvisionSkins/MyName/images/arrow_white_left.png);
     left: 20px!important;
     opacity: 1;
     font-size: 0;
@@ -25,7 +25,7 @@
 .bannerfade .flex-direction-nav .flex-prev:before{font-size:0!important}
 
 .bannerfade .flex-direction-nav .flex-next{
-    background-image: url(/DigitvisionSkins/PhanPhucThanh/images/arrow_white_right.png);
+    background-image: url(/Content/DigitvisionSkins/MyName/images/arrow_white_right.png);
 	right:32%!important;
     opacity: 1;
     font-size: 0;

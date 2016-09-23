@@ -194,7 +194,12 @@
     <Content Include="Content\DigitvisionSkins\MyName\bootstrap.min.css" />
     <Content Include="Content\DigitvisionSkins\MyName\custom.css" />
     <Content Include="Content\DigitvisionSkins\MyName\custom.js" />
+    <Content Include="Content\DigitvisionSkins\MyName\images\arrow_white_left.png" />
+    <Content Include="Content\DigitvisionSkins\MyName\images\arrow_white_right.png" />
     <Content Include="Content\DigitvisionSkins\MyName\images\bg-content.png" />
+    <Content Include="Content\DigitvisionSkins\MyName\images\date.png" />
+    <Content Include="Content\DigitvisionSkins\MyName\images\divider_footer_social.png" />
+    <Content Include="Content\DigitvisionSkins\MyName\images\ghichu.png" />
     <Content Include="Content\fonts\fontface.css" />
     <Content Include="Content\fonts\fonts.css" />
     <Content Include="Content\fonts\UTM-Penumbra\fonts.css" />
@@ -238,8 +243,14 @@
     <Content Include="FileManager\MyName\Banner\letienmanh.jpg" />
     <Content Include="FileManager\MyName\hilclen toll.png" />
     <Content Include="FileManager\MyName\peggy.png" />
+    <Content Include="FileManager\MyName\Slide\slide01.JPG" />
+    <Content Include="FileManager\MyName\Slide\slide02.JPG" />
+    <Content Include="FileManager\MyName\Slide\slide03.JPG" />
     <Content Include="FileManager\MyName\trump.png" />
     <Content Include="Global.asax" />
+    <Content Include="Content\fonts\Roboto-Thin.ttf" />
+    <Content Include="Content\fonts\Roboto-Thin.woff" />
+    <Content Include="Content\lib\jQuery\PluginStack\flex_slider\fonts\flexslider-icon.woff" />
     <None Include="Scripts\jquery-1.8.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.8.2.js" />
     <Content Include="Scripts\jquery-1.8.2.min.js" />
@@ -272,6 +283,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Content\DigitvisionSkins\MyName\fonts\" />
     <Folder Include="Images\" />
     <Folder Include="Models\" />
   </ItemGroup>
