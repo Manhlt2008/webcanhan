@@ -1,0 +1,135 @@
+.Articel_Blog .blog_content h3 a{
+    background: url(/DigitvisionSkins/HaiLinhGroup/images/icon-bottom.png) no-repeat left 0px top 0px;
+    text-decoration: none;
+    color: #21b8eb;
+    font-size: 18pt;
+    font-weight: bold;
+    border-bottom: 2px solid;
+    padding: 0 0 6px 40px;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+
+.Articel_Default_Topview .warp{
+    border-bottom: 1px solid #dfdfdf;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+}
+.Articel_Default_Topview .warp:last-child{
+    border-bottom: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.Articel_Default_Topview .row{
+	margin-left:-6px;
+	margin-right:-6px;
+}
+.Articel_Default_Topview .single_blog ,
+.Articel_Default_Topview .blog_content{
+	padding-left:6px;
+	padding-right:6px;
+}
+.danh_sach2  .Articel_Default_Topview  .warp:nth-child(1),
+.danh_sach2  .Articel_Default_Topview  .warp:nth-child(2),
+.danh_sach2  .Articel_Default_Topview  .warp:nth-child(3){display:none;}
+.Articel_Blog .blog_content a{color: #21b8eb;}
+.Articel_Blog .blog_content{
+    font-size: 13pt;
+    color: #555;
+}
+.Articel_Blog .blog_content p{
+margin:0;
+}
+.Articel_Blog .blog_img{
+    border: 1px solid #ccc;
+    padding: 50px 20px;
+    margin-top: 22px;
+}
+.Articel_Blog .blog_img img{width:100%}
+
+
+.Articel_Default_Topview .List_Avarta_Topview{
+    overflow: hidden;
+    margin-bottom: 20px;
+    margin: 0;
+    width: 100%;
+    height: 120px;
+    padding: 0;
+    border: 0;
+    outline: none;
+    list-style: none;
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+}
+.Articel_Default_Topview .List_Avarta_Topview a img{width:100%;}
+.List_Avarta_Topview .view{
+    position: absolute;
+    color: #fff;
+    bottom: 0;
+    right: 0;
+    background: rgba(6, 82, 164, 0.7);
+    padding: 2px 5px;
+}
+.List_Avarta_Topview .view:before{
+    content: "\f06e";
+    font: normal normal normal 14px/1 FontAwesome;
+}
+.Articel_Default_Topview .blog_content{
+    font-size: 16px;
+    line-height: 20px;
+}
+.Articel_Default_Topview .blog_content .tacgia{margin-bottom:10px;}
+.Articel_Default_Topview .blog_content span{
+    color: #337ab7;
+    font-size: 15px;
+}
+.Articel_Default_Topview .blog_content .tacgia .date{
+    background: url(/DigitvisionSkins/LeThuyHanh/images/date.png) no-repeat left;
+    padding: 0 8px 0px 20px;
+    font-size: 13px;
+    color: #999;
+}
+.Articel_Default_Topview .blog_content .tacgia .author{
+    background: url(/DigitvisionSkins/LeThuyHanh/images/ghichu.png) no-repeat left;
+    padding: 0 10px 0px 20px;
+    font-size: 15px;
+    color: #999;
+}
+.Articel_Default_Topview .blog_content .tacgia .page_link{padding: 0 10px 0px 0px;}
+.Articel_Default_Topview .blog_content .tacgia .page_link:before{
+    font: normal normal normal 14px/1 FontAwesome;
+    content: "\f02c";
+    color: #333;
+    font-size: 15px;
+}
+.Articel_Default_Topview .blog_content h2{
+    font-size: 13px;
+    line-height: 20px;
+    margin-top: 0;
+}
+.Articel_Default_Topview .blog_content h4{
+    font-weight: 400;
+    font-size: 16px;
+    color: #666;
+    line-height: 25px;
+}
+.Articel_Default_Topview .blog_content h2 a{
+    color: #555;
+    font-weight: 600;
+    text-decoration: none;
+}
+.Articel_Default_Topview .blog_content a.fa{
+    font-size: 16px;
+    color: #999;
+    font-family: arial;
+	
+}
+.Articel_Default_Topview .blog_content a.fa:before {
+    font: normal normal normal 14px/1 FontAwesome;
+    margin-left: 5px;
+    float: right;
+    font-size: 16px;
+    font-weight: bold;
+}

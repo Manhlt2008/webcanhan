@@ -1,0 +1,124 @@
+.su_kien{position:relative}
+.su_kien .webparttitlecontrol{
+	font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-family: initial;
+    margin-top: 0px;
+    margin-bottom: 25px;
+}
+.su_kien .webpartheadercontrol a{
+    position: absolute;
+    right: 25px;
+    top: 25px;
+    font-size: 13px;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: #e85128;
+    border-color: #e85128;
+    border-radius: 4px;
+    color: #fff;
+    padding: 5px 15px;
+}
+.Sukien_khoahoc {
+	margin-left:-6px;
+	margin-right:-6px;
+}
+.Sukien_khoahoc .P_Items {
+	padding-left:6px;
+	padding-right:6px
+}
+.Sukien_khoahoc .avata{
+	width:100%;
+	height:210px;
+}
+.Sukien_khoahoc .avata a img{width:100%;}
+.Sukien_khoahoc .AL_Title1{
+    font-size: 16px;
+    margin-top: 0;
+    text-align: center;
+    background: #404040;
+    margin-bottom: 0;
+    padding: 8px;
+    line-height: 20px;
+    min-height: 52px;
+    max-height: 52px;
+    overflow: hidden;
+	display: -moz-box;
+    -moz-box-orient: vertical;
+    -moz-box-pack: center;
+    -moz-box-align: center;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-box-pack: center;
+    -webkit-box-align: center;
+    display: box;
+    box-orient: vertical;
+    box-pack: center;
+    box-align: center;
+}
+.Sukien_khoahoc .AL_Title1 a{
+	color:#fff;
+}
+
+.Sukien_khoahoc .start_date{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.Sukien_khoahoc .start_date span.title{
+    display: block;
+    background: #b10f0d;
+    color: #fff;
+    font-size: 15px;
+    padding: 5px;
+    text-shadow: 1px 1px 1px #000;
+}
+.Sukien_khoahoc .start_date span.date{
+
+}
+
+.Sukien_khoahoc .end_date{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background: #fff;
+    border: 2px solid #dfdfdf;
+}
+.Sukien_khoahoc .end_date span.title{
+    display: block;
+    background: #b10f0d;
+    color: #fff;
+    font-size: 15px;
+    padding: 5px;
+    text-shadow: 1px 1px 1px #000;
+}
+.Sukien_khoahoc .end_date span.date{
+    font-size: 20px;
+    padding: 8px 5px;
+    display: block;
+}
+
+
+.Sukien_khoahoc .start_date .extralists-nav{padding:0;margin: 0;}
+.Sukien_khoahoc .start_date .extralists-nav li{
+    list-style: none;
+    display: inline-block;
+    background: #fff;
+    border: 2px solid #dfdfdf;
+    margin-left: 3px
+}
+.Sukien_khoahoc .start_date .extralists-nav li a{
+    background: #B10F0D;
+    font-size: 14px;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    padding: 5px;
+}
+.Sukien_khoahoc .start_date .extralists-nav li .extralists_content{
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 5px;
+}
+.Sukien_khoahoc .start_date .extralists-nav li .extralists_content p{margin:0}

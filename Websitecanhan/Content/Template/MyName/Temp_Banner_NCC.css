@@ -1,0 +1,150 @@
+.Thuong_hieu .flex-direction-nav{
+	display:none;
+}
+.Thuong_hieu .slides_thuonghieu img{
+	width:inherit!important;
+}
+.Thuong_hieu .owl-controls .owl-prev {
+    position: absolute;
+    top: 38%;
+    left: -20px;
+    font-size: 0;
+}
+.Thuong_hieu .owl-controls .owl-prev:before {
+    content: "\f104";
+    font-size: 50px!important;
+    color: #0652A4;
+    font: normal normal normal 14px/1 FontAwesome;
+}
+
+.Thuong_hieu .owl-controls .owl-next {
+    position: absolute;
+    top: 38%;
+    right: -20px;
+    font-size: 0;
+}
+.Thuong_hieu .owl-controls .owl-next:before {
+    content: "\f105";
+    font-size: 50px!important;
+    color: #0652A4;
+    font: normal normal normal 14px/1 FontAwesome;
+}
+.tpl-header-banner .Thuong_hieu{
+	border:0px!important;
+	margin:0;
+	overflow:hidden;
+	box-shadow:0 0px 0px rgba(0,0,0,.2);
+}
+.tpl-header-banner .slides_thuonghieu li{
+	min-height:650px;
+	height:685px;
+}
+.Thuong_hieu .owl-controls{
+    display: none;
+}
+.Thuong_hieu .owl-controls .owl-dots{
+	position: absolute;
+    bottom: 0;
+    padding: 9px 0px;
+    z-index: 999;
+	display:none!important;
+	right:0;
+	left:0;
+}
+.Thuong_hieu .owl-controls .owl-dots .owl-dot{
+	display:inline-block;
+}
+.Thuong_hieu .owl-controls .owl-dots span{
+	height:10px;
+	width:10px;
+	display:inline-block;
+	border-radius:50%;
+	background:#fff;
+	margin-right:8px;
+}
+.Thuong_hieu .owl-controls .owl-dot.active span{
+	background:red;
+}
+.tpl-header-banner .slides_thuonghieu li .box-content{
+	position:absolute;
+	bottom:0px;
+	right:0;
+	padding:10px 0px 10px 0px;
+	font-style:italic;
+	z-index:12;
+	color:#fff;
+	font-size:17px;
+	width:100%;
+	background-color: rgba(68, 60, 60, 0.4);
+}
+.tpl-header-banner .slides_thuonghieu li .box-content .Title{
+	text-align:right;
+	position:relative;
+}
+.tpl-header-banner .Thuong_hieu .flex-control-nav{
+	bottom:0!important;
+	z-index:11;
+    padding: 16px 15px 10px 15px;
+	text-align:left;
+	margin:0 auto;
+	left:0;
+	right:0;
+}
+.tpl-header-banner .Thuong_hieu .flex-control-nav li:first-child{
+	margin-left:0;
+}
+.tpl-header-banner .Thuong_hieu .flex-control-paging li a:hover{
+	background: #ec1f27!important;
+}
+.tpl-header-banner .Thuong_hieu .flex-control-paging li a.flex-active{
+	background: #ec1f27!important;
+}
+.img_responsive-top {
+	background-repeat: no-repeat;
+	background-position: 50% 0;
+	-webkit-background-size: cover !important;
+	-moz-background-size: cover !important;
+	-o-background-size: cover !important;
+	background-size: cover !important;
+	background-attachment: fixed;
+	height: 100%;
+    width: 100%;	
+}
+.Thuong_hieu .slides_thuonghieu{
+    margin-top: 25px;
+    padding: 15px;
+    background: #fff;
+    box-shadow: 0 1px 1.5px rgba(35,45,50,.15);
+    -webkit-border-radius: 3px;
+    -webkit-background-clip: padding-box;
+    -moz-border-radius: 3px;
+    -moz-background-clip: padding;
+    border-radius: 3px;
+}
+.Thuong_hieu .slides_thuonghieu .li{
+
+	list-style: none;
+}
+@media screen and (min-width: 0px) and (max-width: 800px) {
+	.tpl-header-banner .slides_thuonghieu li{
+		max-height:400px;
+		height:400px;
+	}
+	.tpl-header-banner .slides_thuonghieu li .box-content{
+		position:static;
+	}
+	.tpl-header-banner .Thuong_hieu .flex-control-nav{
+		left:0;
+		right:0;
+		padding: 0;
+		text-align: center;
+	}
+	.tpl-header-banner .slides_thuonghieu li .box-content .Title{
+		text-align:justify;
+	}
+}
+@media screen and (min-width: 1367px) and (max-width: 1920px) {
+	.tpl-header-banner .slides_thuonghieu li{
+		height:945px;
+	}
+}

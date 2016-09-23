@@ -1,0 +1,114 @@
+.Lis_hoatdong {
+	margin-left:0;
+	margin-right:0;
+}
+.Lis_hoatdong .P_Items {
+	padding-left:0;
+	padding-right:0;
+}
+.Lis_hoatdong .P_Items .warp{
+
+}
+.section_main .hoat_dong {
+    margin-top: 25px;
+    padding: 15px  15px 0px;
+    background: #fff;
+    box-shadow: 0 1px 1.5px rgba(35,45,50,.15);
+    -webkit-border-radius: 3px;
+    -webkit-background-clip: padding-box;
+    -moz-border-radius: 3px;
+    -moz-background-clip: padding;
+    border-radius: 3px;
+}
+.section_main .hoat_dong .webparttitlecontrol{
+	 margin-top: 5px!important;
+}
+.Lis_hoatdong .avata{
+	width:100%;
+	height:250px;
+	overflow:hidden;
+}
+.Lis_hoatdong .avata img{width:100%;}
+
+.Lis_hoatdong .AL_Title1{
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 8px;
+    line-height: 20px;
+    min-height: 52px;
+    max-height: 52px;
+    overflow: hidden;
+    display: -moz-box;
+    -moz-box-orient: vertical;
+    -moz-box-pack: center;
+    -moz-box-align: center;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-box-pack: center;
+    -webkit-box-align: center;
+    display: box;
+    box-orient: vertical;
+    box-pack: center;
+    box-align: center;
+}
+.Lis_hoatdong .AL_Title1 a{
+    color: #555;
+    text-transform: uppercase;
+    line-height: 24px;
+}
+
+.Lis_hoatdong .productbox{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.Lis_hoatdong .productbox .article-body-testimo .box-om-testimo{
+    display: none;
+    position: absolute;
+	top:100%;
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    background: rgba(27, 53, 86, 0.49);
+    padding: 5px 10px;
+    font-size: 13px;
+}
+.Lis_hoatdong .productbox .article-body-testimo .box-om-testimo a.icon{
+    position: absolute;
+    top: 40%;
+    left: 0;
+    right: 0;
+    width: 80%;
+    padding: 5px;
+    border-radius: 20px;
+    margin: 0 auto;
+    color: #fff;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.Lis_hoatdong .productbox .article-body-testimo .box-om-testimo a.title{
+    font-size: 15px;
+    color: #fff;
+    text-align: center;
+    bottom: 0;
+    position: absolute;
+    padding: 8px 15px;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.49);
+}
+.Lis_hoatdong .productbox .article-body-testimo .box-om-testimo a.icon:after{
+    content: "\f101";
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: 20px;
+    color: #fff;
+    margin-left: 8px;
+}
+.Lis_hoatdong .productbox .article-body-testimo .article-description-testimo p{
+	font-size: 17px;
+    font-weight: 300;
+    color: #fff;
+    font-style: italic;
+}

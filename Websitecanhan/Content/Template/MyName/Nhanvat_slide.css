@@ -1,0 +1,35 @@
+
+.bannerfade{
+    margin: 0!important;
+    border: 0!important;
+}
+
+.Avatar_banner{
+	width:100%;
+	height:572px;
+}
+.Avatar_banner a img{width:100%;left: 0!important;}
+
+.bannerfade .flex-control-nav{
+	top: 0;
+}
+
+.bannerfade .flex-direction-nav .flex-prev{
+	background-image: url(/DigitvisionSkins/PhanPhucThanh/images/arrow_white_left.png);
+    left: 20px!important;
+    opacity: 1;
+    font-size: 0;
+    height: 60px;
+    width: 20px;
+}
+.bannerfade .flex-direction-nav .flex-prev:before{font-size:0!important}
+
+.bannerfade .flex-direction-nav .flex-next{
+    background-image: url(/DigitvisionSkins/PhanPhucThanh/images/arrow_white_right.png);
+	right:32%!important;
+    opacity: 1;
+    font-size: 0;
+    height: 60px;
+    width: 20px;	
+}
+.bannerfade .flex-direction-nav .flex-next:before{font-size:0!important}

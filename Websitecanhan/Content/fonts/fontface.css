@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'ModernHEcolight';   
+    src: url('/fonts/ModernH-EcoLight.v1.0.css') format('woff')
+}
+@font-face {
+    font-family: 'Lato-Light';   
+    src: url('/fonts/Lato-Light.css') format('woff')
+}
+@font-face {
+    font-family: 'Palatino Linotype';   
+    src: url('/fonts/Palatino Linotype.v1.0.css') format('woff')
+}
+@font-face {
+    font-family: 'OpenSans-Regular';   
+    src: url('/fonts/OpenSans-Regular.css') format('woff')
+}
+@font-face {
+    font-family: 'OpenSans-Bold';   
+    src: url('/fonts/OpenSans-Regular.css') format('woff')
+}
+@font-face {
+    font-family: 'OpenSans-Light';   
+    src: url('/fonts/OpenSans-Light.css') format('woff')
+}
+@font-face {
+    font-family: 'HelveticaNeue-Light';   
+    src: url('/fonts/helvetica-neue-ultra-light.css') format('woff')
+}
+@font-face {
+    font-family: 'Code-bold';   
+    src: url('/fonts/CODE_Bold.css') format('woff')
+}
+@font-face {
+    font-family: 'Roboto-Light';   
+    src: url('/fonts/Roboto-Light.css') format('woff')
+}
+@font-face {
+    font-family: 'Dear-joe';   
+    src: url('/fonts/DJ5CTRIAL.css') format('woff')
+}
+@font-face {
+    font-family: 'RobotoThin';
+	src: url('/fonts/Roboto-Thin.css') format('woff'), url('/fonts/Roboto-Thin_eot.css') format('eot'), url('/fonts/Roboto-Thin_otf.css') format('otf'), url('/fonts/Roboto-Thin_svg.css') format('svg'), url('/fonts/Roboto-Thin_tff.css') format('tff');
+}
