@@ -242,6 +242,11 @@
     <Content Include="FileManager\MyName\Banner\avata.jpg" />
     <Content Include="FileManager\MyName\Banner\letienmanh.jpg" />
     <Content Include="FileManager\MyName\hilclen toll.png" />
+    <Content Include="FileManager\MyName\Icon\icon_social_facebook.png" />
+    <Content Include="FileManager\MyName\Icon\icon_social_instagram.png" />
+    <Content Include="FileManager\MyName\Icon\icon_social_twitter.png" />
+    <Content Include="FileManager\MyName\Icon\icon_social_youtube.png" />
+    <Content Include="FileManager\MyName\Icon\personname.png" />
     <Content Include="FileManager\MyName\peggy.png" />
     <Content Include="FileManager\MyName\Slide\slide01.JPG" />
     <Content Include="FileManager\MyName\Slide\slide02.JPG" />
@@ -251,6 +256,8 @@
     <Content Include="Content\fonts\Roboto-Thin.ttf" />
     <Content Include="Content\fonts\Roboto-Thin.woff" />
     <Content Include="Content\lib\jQuery\PluginStack\flex_slider\fonts\flexslider-icon.woff" />
+    <Content Include="Content\fonts\fontawesome-webfont.woff2" />
+    <Content Include="Content\fonts\Roboto-Thin.eot" />
     <None Include="Scripts\jquery-1.8.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.8.2.js" />
     <Content Include="Scripts\jquery-1.8.2.min.js" />
@@ -283,7 +290,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Content\DigitvisionSkins\MyName\fonts\" />
     <Folder Include="Images\" />
     <Folder Include="Models\" />
   </ItemGroup>
